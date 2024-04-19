@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TPs_SPRING.iml" filepath="$PROJECT_DIR$/.idea/TPs_SPRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPRING.iml" filepath="$PROJECT_DIR$/.idea/SPRING.iml" />
     </modules>
   </component>
 </project>
